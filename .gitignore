@@ -1,0 +1,6 @@
+
+### .gitignore
+
+```gitignore
+data/*.csv
+*.ipynb_checkpoints
